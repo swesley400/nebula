@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import quiz from '@/quiz.json';
 import Step from './step';
 

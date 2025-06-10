@@ -682,6 +682,7 @@
         "question": "Quais práticas ajudam você a se conectar com seu divino interior?",
         "subTitleQuestion": "Selecione todos que se aplicam",
         "needContinusBuuton": true,
+        "multipleChoices": true,
         "options": [
             {
                 "id": "a",
