@@ -1,0 +1,939 @@
+[
+    {
+        "id": 1,
+        "title": "Abrace seu potencial",
+        "step": 1,
+        "question": "Que insight pessoal você está buscando?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Descobrir meus poderes ocultos",
+                "icon": "🧩"
+            },
+            {
+                "id": "b",
+                "text": "Identificar meu arquétipo espiritual",
+                "icon": "👁️"
+            },
+            {
+                "id": "c",
+                "text": "Encontrar marcas e símbolos que vão me guiar",
+                "icon": "✨"
+            },
+            {
+                "id": "d",
+                "text": "Desvendar meu destino e vocação",
+                "icon": "⏳"
+            },
+            {
+                "id": "e",
+                "text": "Aumentar minha influência e intuição",
+                "icon": "💬"
+            },
+            {
+                "id": "f",
+                "text": "Explorar meu potencial mágico inato",
+                "icon": "🔮"
+            }
+        ],
+        "toRedirect": "/step/2"
+    },
+    {
+        "id": 2,
+        "title": "Abrace seu potencial",
+        "step": 2,
+        "question": "Quando você entra em um ambiente, consegue sentir a energia do lugar?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Sempre, sou muito sensível a isso",
+                "icon": "😌"
+            },
+            {
+                "id": "b",
+                "text": "Eu percebo se estiver prestando atenção",
+                "icon": "🧐"
+            },
+            {
+                "id": "c",
+                "text": "Não é algo que costumo notar",
+                "icon": "🤨"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+        ],
+        "toRedirect": "/step/3"
+    },
+    {
+        "id": 3,
+        "title": "Como você se sente em grandes multidões?",
+        "step": 3,
+        "question": "Como você se sente em grandes multidões?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Sobrecarregado, é muita energia para mim",
+                "icon": "😨"
+            },
+            {
+                "id": "b",
+                "text": "Confortável, eu gosto da agitação",
+                "icon": "🧐"
+            },
+            {
+                "id": "c",
+                "text": "Indiferente, multidões não me afetam",
+                "icon": "🙅‍♀️"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+        ],
+        "toRedirect": "/step/4"
+    },
+    {
+        "id": 4,
+        "title": "Abrace seu potencial",
+        "step": 4,
+        "question": "Como você se sente durante uma tempestade?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Animado, eu amo o poder e a energia de uma tempestade",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Indiferente, tempestades realmente não me afetam",
+                "icon": "🙅‍♀️"
+            },
+            {
+                "id": "c",
+                "text": "ISinto-me ansioso e prefiro ficar dentro de casa",
+                "icon": "😳"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+        ],
+        "toRedirect": "/step/5"
+    },
+    {
+        "id": 5,
+        "title": "Abrace seu potencial",
+        "step": 5,
+        "question": "Como você se sente durante uma tempestade?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Eu me sinto em paz e conectado à terra",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Eu gosto, mas não sinto uma conexão forte",
+                "icon": "😌"
+            },
+            {
+                "id": "c",
+                "text": "Eu prefiro ambientes urbanos",
+                "icon": "🙂"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+        ],
+        "toRedirect": "/step/6"
+    },
+    {
+        "id": 6,
+        "title": "Abrace seu potencial",
+        "step": 6,
+        "question": "Qual destes elementos combina com a sua personalidade?",
+        "iconsPosition": "UP",
+        "options": [
+            {
+                "id": "a",
+                "text": "Fogo",
+                "icon": "/elements/fire.svg"
+            },
+            {
+                "id": "b",
+                "text": "Água",
+                "icon": "/elements/water.svg"
+            },
+            {
+                "id": "c",
+                "text": "Terra",
+                "icon": "/elements/terra.svg"
+            },
+            {
+                "id": "d",
+                "text": "Ar",
+                "icon": "/elements/ar.svg"
+            },
+            {
+                "id": "d",
+                "text": "Quintessência",
+                "icon": "/elements/quintessence.webp"
+            }
+        ],
+        "toRedirect": "/step/7"
+    },
+    {
+        "id": 7,
+        "title": "Abrace seu potencial",
+        "step": 7,
+        "question": "Você se sente atraído por costumes e rituais antigos?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Sinto uma conexão profunda com a sabedoria das tradições",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Aprecio a história, mas também valorizo os modos modernos",
+                "icon": "😌"
+            },
+            {
+                "id": "c",
+                "text": "Prefiro me concentrar no presente em vez do passado",
+                "icon": "🙂"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+        ],
+        "toRedirect": "/step/8"
+    },
+    {
+        "id": 8,
+        "title": "Abrace seu potencial",
+        "step": 8,
+        "question": "Você sente uma conexão ou recebe mensagens de ancestrais ou espíritos?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Sim, às vezes me comunico com eles",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Raramente, mas a ideia é intrigante",
+                "icon": "🤓"
+            },
+            {
+                "id": "c",
+                "text": "Nunca, não me conecto com o reino espiritual",
+                "icon": "🙂"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+        ],
+        "toRedirect": "/step/9"
+    },
+    {
+        "id": 9,
+        "title": "Abrace seu potencial",
+        "step": 9,
+        "question": "Existem bruxas conhecidas ou mulheres intuitivamente poderosas na sua linhagem?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Sim",
+                "icon": "✅"
+            },
+            {
+                "id": "b",
+                "text": "Eu acho que sim",
+                "icon": "🤓"
+            },
+            {
+                "id": "c",
+                "text": "Eu não estou ciente",
+                "icon": "🤷‍♀️"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🙅‍♀️"
+            }
+        ],
+        "toRedirect": "https://appnebula.co/pt/witch-power/lineageYes"
+    },
+    {
+        "id": 10,
+        "title": "Abrace seu potencial",
+        "step": 10,
+        "question": "Quem é a mulher na sua família conhecida por suas habilidades intuitivas ou poderes semelhantes aos de bruxa?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Minha mãe",
+                "icon": "👩"
+            },
+            {
+                "id": "b",
+                "text": "Minha avó ou bisavó materna",
+                "icon": "👵"
+            },
+            {
+                "id": "c",
+                "text": "Minha avó ou bisavó paterna",
+                "icon": "👵"
+            },
+            {
+                "id": "d",
+                "text": "Outro(s) membro(s) da família materna",
+                "icon": "👩‍👧‍👧"
+            },
+            {
+                "id": "e",
+                "text": "OOutro(s) membro da família paterna",
+                "icon": "👨‍👧‍👦"
+            }
+        ],
+        "toRedirect": "https://appnebula.co/pt/witch-power/familyMagic"
+    },
+    {
+        "id": 11,
+        "title": "Abrace seu potencial",
+        "step": 11,
+        "question": "Você já realizou um ritual ou feitiço com uma intenção específica?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Eu pratico regularmente rituais ou feitiços",
+                "icon": "⭐"
+            },
+            {
+                "id": "b",
+                "text": "Experimentei algumas vezes por curiosidadea",
+                "icon": "🔍"
+            },
+            {
+                "id": "c",
+                "text": "Não, mas tenho interesse",
+                "icon": "🌱"
+            },
+            {
+                "id": "d",
+                "text": "Não, e não estou interessado",
+                "icon": "🙅‍♀️"
+            }
+           
+        ],
+        "toRedirect": "/step/12"
+    },
+    {
+        "id": 12,
+        "title": "Abrace seu potencial",
+        "step": 12,
+        "question": "Você sente que, instintivamente, sabe como confortar ou curar os outros, seja emocionalmente ou fisicamente?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Eu costumo confortar ou curar pessoas",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Consigo encontrar as palavras certas intuitivamente",
+                "icon": "😌"
+            },
+            {
+                "id": "c",
+                "text": "Não confio na intuição",
+                "icon": "🙂"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "https://appnebula.co/pt/witch-power/whichFigure"
+    },
+    {
+        "id": 13,
+        "title": "Abrace seu potencial",
+        "step": 13,
+        "question": "Você sente que, instintivamente, sabe como confortar ou curar os outros, seja emocionalmente ou fisicamente?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Eu costumo confortar ou curar pessoas",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Consigo encontrar as palavras certas intuitivamente",
+                "icon": "😌"
+            },
+            {
+                "id": "c",
+                "text": "Não confio na intuição",
+                "icon": "🙂"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "https://appnebula.co/pt/witch-power/whichFigure"
+    },
+    {
+        "id": 14,
+        "title": "Abrace seu potencial",
+        "step": 14,
+        "question": "Como você lida com a responsabilidade de manter a confiança de outra pessoa e guardar seus segredos?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Eu valorizo a importância da confiança",
+                "icon": "😌"
+            },
+            {
+                "id": "b",
+                "text": "Posso cometer erros ocasionalmente",
+                "icon": "😐"
+            },
+            {
+                "id": "c",
+                "text": "Eu tenho dificuldade em guardar segredos",
+                "icon": "😬"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "/step/15"
+    },
+    {
+        "id": 15,
+        "title": "Abrace seu potencial",
+        "step": 15,
+        "question": "Você se sente atraído ou entende o significado por trás de símbolos e sinais ao seu redor?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Sim, eu frequentemente noto símbolos",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Às vezes, mas não sei por quê",
+                "icon": "🧐"
+            },
+            {
+                "id": "c",
+                "text": "Eu raramente noto símbolos e sinais",
+                "icon": "🙂"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "/step/16"
+    },
+    {
+        "id": 16,
+        "title": "Abrace seu potencial",
+        "step": 16,
+        "question": "Como você se sente em relação a temas como astrologia, tarô e o sobrenatural?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Fascinado! Eu amo práticas místicas",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Eu me interesso ocasionalmente",
+                "icon": "😌"
+            },
+            {
+                "id": "c",
+                "text": "Eu prefiro assuntos mais práticos",
+                "icon": "🙂"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "/step/17"
+    },
+    {
+        "id": 17,
+        "title": "Abrace seu potencial",
+        "step": 17,
+        "question": "Qual é a sua visão sobre a morte?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Isso me fascina",
+                "icon": "🤩"
+            },
+            {
+                "id": "b",
+                "text": "Eu aceito como parte natural da vida",
+                "icon": "🙂"
+            },
+            {
+                "id": "c",
+                "text": "Pensar sobre isso me assusta",
+                "icon": "😳"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "/step/17"
+    },
+    {
+        "id": 18,
+        "title": "Abrace seu potencial",
+        "step": 18,
+        "question": "Você se sente diferente ou mais poderoso dependendo das fases da lua?",
+        "options": [
+            {
+                "id": "a",
+                "text": "A lua influencia minhas emoções",
+                "icon": "🙌"
+            },
+            {
+                "id": "b",
+                "text": "Já percebi mudanças sutis com as fases da lua",
+                "icon": "🤏"
+            },
+            {
+                "id": "c",
+                "text": "As fases da lua não me afetam",
+                "icon": "👎"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "/step/19"
+    },
+    {
+        "id": 19,
+        "title": "Abrace seu potencial",
+        "step": 19,
+        "question": "Qual dessas atividades acende sua chama criativa?",
+        "subTitleQuestion": "A criatividade floresce de diferentes formas. Por favor, selecione todas que se aplicam",
+        "needContinusBuuton": true,
+        "options": [
+            {
+                "id": "a",
+                "text": "Escrever",
+                "icon": "✍️"
+            },
+            {
+                "id": "b",
+                "text": "Diário",
+                "icon": "📝"
+            },
+            {
+                "id": "c",
+                "text": "Pintura",
+                "icon": "🧑‍🎨"
+            },
+            {
+                "id": "d",
+                "text": "Desenhar",
+                "icon": "✏️"
+            },
+            {
+                "id": "d",
+                "text": "Dançar",
+                "icon": "💃"
+            },
+            {
+                "id": "d",
+                "text": "Dançar",
+                "icon": "💃"
+            },
+            {
+                "id": "d",
+                "text": "Movimento",
+                "icon": "🏃‍♀️"
+            },
+            {
+                "id": "d",
+                "text": "Música",
+                "icon": "🎶"
+            },
+            {
+                "id": "d",
+                "text": "Cantar",
+                "icon": "🎤"
+            },
+            {
+                "id": "d",
+                "text": "Artesanato",
+                "icon": "✂️"
+            },
+            {
+                "id": "d",
+                "text": "Projetos faça você mesmo",
+                "icon": "🎨"
+            }
+        ],
+        "toRedirect": "/step/20"
+    }, 
+    {
+        "id": 20,
+        "title": "Abrace seu potencial",
+        "step": 20,
+        "question": "Como você aborda o autocuidado e o crescimento pessoal?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Com foco no meu corpo e alma",
+                "icon": "🎯"
+            },
+            {
+                "id": "b",
+                "text": "Com confiança na minha sabedoria interior",
+                "icon": "😌"
+            },
+            {
+                "id": "c",
+                "text": "Com desejo de explorar coisas novas",
+                "icon": "🤩"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "/step/21"
+    }, 
+    {
+        "id": 21,
+        "title": "Abrace seu potencial",
+        "step": 21,
+        "question": "Como você aborda o autocuidado e o crescimento pessoal?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Com foco no meu corpo e alma",
+                "icon": "🎯"
+            },
+            {
+                "id": "b",
+                "text": "Com confiança na minha sabedoria interior",
+                "icon": "😌"
+            },
+            {
+                "id": "c",
+                "text": "Com desejo de explorar coisas novas",
+                "icon": "🤩"
+            },
+            {
+                "id": "d",
+                "text": "Não tenho certeza",
+                "icon": "🤔"
+            }
+           
+        ],
+        "toRedirect": "/step/22"
+    },{
+        "id": 22,
+        "title": "Abrace seu potencial",
+        "step": 22,
+        "question": "Quais práticas ajudam você a se conectar com seu divino interior?",
+        "subTitleQuestion": "Selecione todos que se aplicam",
+        "needContinusBuuton": true,
+        "options": [
+            {
+                "id": "a",
+                "text": "Meditação",
+                "icon": "🧘"
+            },
+            {
+                "id": "b",
+                "text": "Mindfulness (atenção plena)",
+                "icon": "🌿"
+            },
+            {
+                "id": "c",
+                "text": "Rituais",
+                "icon": "🕯"
+            },
+            {
+                "id": "d",
+                "text": "Cerimônias",
+                "icon": "🕊"
+            },
+            {
+                "id": "d",
+                "text": "Trabalho com cristais",
+                "icon": "🔮"
+            },
+            {
+                "id": "d",
+                "text": "Leitura de Tarô",
+                "icon": "🎴"
+            },
+            {
+                "id": "d",
+                "text": "Leitura de Oráculo",
+                "icon": "🧿"
+            },
+            {
+                "id": "d",
+                "text": "Análise de sonhos",
+                "icon": "💤"
+            },
+            {
+                "id": "d",
+                "text": "Caminhadas na natureza",
+                "icon": "🌳"
+            }
+        ],
+        "toRedirect": "/step/23"
+    },{
+        "id": 23,
+        "title": "Abrace seu potencial",
+        "step": 23,
+        "question": "Quais são os seus aromas favoritos?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Aromas florais (rosa, lavanda)",
+                "icon": "🌹"
+            },
+            {
+                "id": "b",
+                "text": "Aromas frutais (cítricos, frutas vermelhas, maçã)",
+                "icon": "🍊"
+            },
+            {
+                "id": "c",
+                "text": "Aromas terrosos (sândalo, cedro)",
+                "icon": "🍃"
+            },
+            {
+                "id": "d",
+                "text": "Aromas gourmand (baunilha, caramelo)",
+                "icon": "🍫"
+            }
+       
+        ],
+        "toRedirect": "/step/24"
+    },{
+        "id": 24,
+        "title": "Abrace seu potencial",
+        "step": 24,
+        "question": "Como você expressa suas emoções?",
+        "options": [
+            {
+                "id": "a",
+                "text": "De forma aberta e compassiva",
+                "icon": "😌"
+            },
+            {
+                "id": "b",
+                "text": "Canalizo minhas emoções em ação e determinação",
+                "icon": "💪"
+            },
+            {
+                "id": "c",
+                "text": "Confio na minha capacidade de lidar com emoções em várias circunstâncias",
+                "icon": "🧭"
+            },
+            {
+                "id": "d",
+                "text": "Expresso minhas emoções através de atos criativos",
+                "icon": "🧑‍🎨"
+            }
+       
+        ],
+        "toRedirect": "/step/26"
+    },{
+        "id": 26,
+        "title": "Abrace seu potencial",
+        "step": 26,
+        "question": "Como você se sente mais empoderado?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Quando estou ajudando os outros",
+                "icon": "🤝"
+            },
+            {
+                "id": "b",
+                "text": "Quando estou alcançando meus objetivos",
+                "icon": "🎯"
+            },
+            {
+                "id": "c",
+                "text": "Quando estou seguindo minha intuição",
+                "icon": "🧭"
+            },
+            {
+                "id": "d",
+                "text": "Quando estou me expressando criativamente",
+                "icon": "🧑‍🎨"
+            }
+       
+        ],
+        "toRedirect": "/step/27"
+    },{
+        "id": 27,
+        "title": "Abrace seu potencial",
+        "step": 27,
+        "question": "Qual o papel que os relacionamentos desempenham na sua vida?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Eles são centrais; eu prospero ao criar vínculos",
+                "icon": "❤️"
+            },
+            {
+                "id": "b",
+                "text": "Eles são importantes, mas a minha independência também é",
+                "icon": "⭐"
+            },
+            {
+                "id": "c",
+                "text": "Eles são intuitivos; eu confio nos meus instintos para me guiar",
+                "icon": "🧭"
+            },
+            {
+                "id": "d",
+                "text": "Eles são inspiradores e despertam minha paixão",
+                "icon": "🔥"
+            }
+       
+        ],
+        "toRedirect": "/step/28"
+    },{
+        "id": 28,
+        "title": "Abrace seu potencial",
+        "step": 28,
+        "question": "Como as pessoas geralmente te descrevem?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Gentil, carinhoso e compreensivo",
+                "icon": "🌸"
+            },
+            {
+                "id": "b",
+                "text": "Realizado, perceptivo e versátil",
+                "icon": "⭐"
+            },
+            {
+                "id": "c",
+                "text": "Encantador, confiante e misterioso",
+                "icon": "🔮"
+            },
+            {
+                "id": "d",
+                "text": "Intuitivo, reflexivo e imaginativo",
+                "icon": "🌀"
+            }
+       
+        ],
+        "toRedirect": "/step/29"
+    },{
+        "id": 29,
+        "title": "Abrace seu potencial",
+        "step": 29,
+        "question": "Como você vê seu papel na sociedade ou no mundo?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Fornecendo apoio e compaixão",
+                "icon": "🤝️"
+            },
+            {
+                "id": "b",
+                "text": "Lutando pelo sucesso e reconhecimento",
+                "icon": "🎯"
+            },
+            {
+                "id": "c",
+                "text": "Oferecendo orientação e insights para os outros",
+                "icon": "🧭"
+            },
+            {
+                "id": "d",
+                "text": "Inspirando os outros através da inovação e beleza",
+                "icon": "⭐"
+            }
+       
+        ],
+        "toRedirect": "/step/30"
+    },{
+        "id": 30,
+        "title": "Abrace seu potencial",
+        "step": 30,
+        "finish": true,
+        "question": "Como você se sente mais empoderado?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Fornecendo apoio e compaixão",
+                "icon": "🤝️"
+            }, 
+            {
+                "id": "b",
+                "text": "Lutando pelo sucesso e reconhecimento",
+                "icon": "🎯"
+            },
+            {
+                "id": "c",
+                "text": "Oferecendo orientação e insights para os outros",
+                "icon": "🧭"
+            },
+            {
+                "id": "d",
+                "text": "Inspirando os outros através da inovação e beleza",
+                "icon": "⭐"
+            }
+       
+        ],
+        "toRedirect": "/step/30"
+    }
+]
+
