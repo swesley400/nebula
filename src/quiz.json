@@ -182,7 +182,7 @@
                 "icon": "/elements/ar.svg"
             },
             {
-                "id": "d",
+                "id": "e",
                 "text": "Quintessência",
                 "icon": "/elements/quintessence.webp"
             }
@@ -518,7 +518,7 @@
             }
            
         ],
-        "toRedirect": "/step/17"
+        "toRedirect": "/step/18"
     },
     {
         "id": 18,

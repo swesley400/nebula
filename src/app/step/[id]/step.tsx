@@ -4,8 +4,8 @@ import quiz from '@/quiz.json';
 import { notFound } from 'next/navigation';
 import Option from '../../components/option';
 
-export default function Step({ params }: { params: any }) {
-  const step = quiz.find((s) => String(s.id) === params.id);
+export default function Step({ id }: { id: string }) {
+  const step = quiz.find((s) => String(s.id) === id);
   const countTotal = quiz.length;
 
   if (!step) {
@@ -49,9 +49,15 @@ export default function Step({ params }: { params: any }) {
       
       <div className='w-full'>
         {step.options.map((option) => (
-          <Option key={option.id} option={option} />
+          <Option 
+            key={option.id} 
+            option={option} 
+            questionId={step.id}
+            question={step.question}
+            toRedirect={step.toRedirect}
+          />
         ))}
       </div>
     </div>
   );
-}
+}// Before

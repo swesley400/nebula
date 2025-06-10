@@ -8,6 +8,10 @@ export async function generateStaticParams() {
     }));
 }
 
-export default function StepPage({ params }: { params: any }) {
-    return <Step params={params} />; 
+// For static pages, we can use a synchronous component
+// but we need to pass the params safely to the client component
+export default function StepPage({ params }: { params: { id: string } }) {
+    // This ensures the static content is safely pre-rendered
+    // The client component (Step) will handle the dynamic behavior
+    return <Step id={params.id} />;
 }
